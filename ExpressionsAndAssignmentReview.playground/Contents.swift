@@ -14,4 +14,8 @@
  You should write your story bits in comments (e.g., between /* and */, or lines starting with // ) around where the code should go.
  
 */
+// create an app that adds up how many apples you have collected. create a variable called greenApples and give it a value beetween 0 - 100 then create a variable that is called redApples and give it a different value. Then create a variable called totalApples and add the red and green apples together. Then print the results. 
 
+// now change the variable totalApples to applesFoundOutside and then creat a variable called applesFoundInside and subtract the two. 
+
+//now create an app that will change fractions into decimals and create a variable that is called numerator and a variable that is called denomenator, then create a variable that is called fractionToDecimal. now divide the numerator by the denomenator and set it equal to fractionToDecimal. make sure to specify that all of your variable be type double. print your results. 
